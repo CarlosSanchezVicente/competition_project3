@@ -2,7 +2,7 @@
 Welcome to this project designed to predict the price of diamonds based on different features that describe them.
 
 
-<img src="./img/diamond.PNG" alt="Diamond features" width="800" align="center">
+<img src="./img/diamond.jpg" alt="Diamond features" width="800" align="center">
 
 
 ### 🎯 The project description
