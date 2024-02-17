@@ -1,8 +1,9 @@
 # Final project of module 3
 Welcome to this project designed to predict the price of diamonds based on different features that describe them.
 
-
-<img src="./img/diamond.jpg" alt="Diamond features" width="400" align="center">
+<div style="text-align:center;">
+    <img src="./img/diamond.jpg" alt="Diamond features" width="400">
+</div>
 
 
 ### 🎯 The project description
@@ -62,6 +63,7 @@ Finally the prediction is obtained with the test dataset and saved in a '.csv' f
   - xgboost==2.0.3
   - ligthgbm==4.3.0
 
+
 ### 📁 Folder structure
     ├── .gitignore
     ├── README.md
@@ -78,8 +80,10 @@ Finally the prediction is obtained with the test dataset and saved in a '.csv' f
     |   ├── EDA.ipynb
         └── Pipeline.ipynb
 
+
 ### 👀Context
 This is the final project of module 3 for the Ironhack Part Time Data Analytics Bootcamp. 
+
 
 ### 📨 Contact info
 If you have some question, drop me a line! (sanchezvicentecarlos@gmail.com).
