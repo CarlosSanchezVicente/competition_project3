@@ -1,9 +1,10 @@
 # Final project of module 3
 Welcome to this project designed to predict the price of diamonds based on different features that describe them.
 
-<div style="text-align:center;">
-    <img src="./img/diamond.jpg" alt="Diamond features" width="400">
-</div>
+html
+<p align="center">
+  <img src="./img/diamond.jpg" alt="Diamond features" style="width:400px;">
+</p>
 
 
 ### 🎯 The project description
