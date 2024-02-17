@@ -75,8 +75,8 @@ Finally the prediction is obtained with the test dataset and saved in a '.csv' f
     |   ├── train
     |   └── sample_submission.csv
     └── notebooks
-    |   ├── other_notebooks
-    |   ├── EDA.ipynb
+        ├── other_notebooks
+        ├── EDA.ipynb
         └── Pipeline.ipynb
 
 
